@@ -42,7 +42,7 @@ cd tenpo-challenge
 ### 🔹 Paso 2: Compilar la aplicación
 
 ```bash
-./mvnw clean package -DskipTests
+./mvnw clean package
 ```
 
 ### 🔹 Paso 3: Levantar los servicios con Docker
